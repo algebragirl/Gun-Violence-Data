@@ -18,13 +18,13 @@ https://www.kaggle.com/datasets/jameslko/gun-violence-data
 ## Tools
 Data was analyzed using the following Python libraries:
 
-pandas:  
-numpy:
+pandas: for data analysis
+Numpy:  for mathematical equations
 seaborn: for data visualizations
 matplotlib: for data visualizations
 os: included automatically with Python; supports functions for interacting with the operating system of your device
-folium:
-json: 
+folium: operates with JSON files for plotting interactive maps
+json: draw shape of given geographical region
 
 ## Folders
 '01 Project Management': Project Brief
