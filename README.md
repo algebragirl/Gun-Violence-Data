@@ -1,5 +1,5 @@
 ## Gun-Violence-Data
-## Link to Tableau
+## Link to Tableau                 https://public.tableau.com/app/profile/barbara.morrison/viz/GunViolenceData_17286770044680/story1?publish=yes
 ## Objective
 This dataset is a comprehensive record of over 260,000 incidents of gun-related violence in the US from 2013-2018.
 The creator originally was inspired to compile it in wake of the Parkland shooting and the ensuing mass media coverage.
